@@ -1,0 +1,17 @@
+5 minute or less Install! (For new users)
+
+1. Make a new database.
+2. Open include.php and fill in your mysql details.
+3. navigate to install.php (thanks to gdscei for the base script).
+4. Register with the username "Admin" with a capital "A" at register.php.
+
+Updating
+
+PLEASE NOTE: THIS IS A UPDATE WHICH HAS BEEN EDITED FROM IBLOG 1.2.3, THEREFOR I WOULD RECOMEND YOU COPY YOUR ORIGINAL BLOG BEFORE TRYING THE METHOD BELOW.
+
+
+From 1.2.3
+
+1. REPLACE ALL FILES
+2. Input the old database data into Include.php
+3. TaDa! Your Set!

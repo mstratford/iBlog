@@ -1,0 +1,73 @@
+v 1.3.1 (Unofficial Release)
+
+- Register Users on PC Version of iBlog
+- Passwords are now encrypted with MD5 encryption
+
+V 1.3 (Unofficial Release)
+
+- More menu options after editing items in Admin Panel
+- More options in PC version
+- Black Theme
+- Catagoies in PC version.
+- A Few Others I Forgot About.
+
+v 1.2.3
+- Add category fix
+- Register on pc site fix
+
+v 1.2.2
+- Pagination now on pc version
+- Adding / editing post fix on pc version
+- changed pagination loop to 5 posts
+
+v1.2.1
+- Category view fix
+- Chat fix when using a quote
+- Delete chats / comments Text length and time fix
+
+v 1.2
+- Categorization!
+- three button editor, if you want more tell me because I don't know what to add
+- Category section
+- Bug fixes
+
+v 1.1
+- Time since: post, chat, and reply
+- Pagination on homepage and on the comments
+- To get the date it now uses a timestamp
+
+
+v 1.0
+
+
+- Added Non-mobile site
+- Added a more info item in the site info
+- Made post detail up to 5,000 characters because of the non-mobile version
+- Made post title up to 45 characters because of the non-mobile version
+- Made news up to 500 characters because of the non-mobile version
+- Added tinymce!
+- Moderators can edit any post except admin's posts
+- Added a chatbox!
+- LOTS of little fixes
+
+
+v.8
+
+-Added a new user role / level called Author
+-Fixed a pretty big commenting bug, When you deleted one comment, the rest from that posted would get deleted too.
+-Added a textbox when there are no comments
+
+
+User roles
+
+Author
+- edit own posts
+- make posts
+
+Moderator
+- edit all post
+- make posts
+- edit comments
+
+Admin
+- everything
